@@ -1,5 +1,5 @@
 # useWindowSize
-Hook for Window Size
+React Hook to get the window size
 
 ## Usage
 useWindowSize();

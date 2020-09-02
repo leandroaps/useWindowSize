@@ -1,10 +1,10 @@
 # useWindowSize
 Hook for Window Size
 
-# USAGE
+## Usage
 useWindowSize();
 
-# CODE
+## Code
 
 ```
 import { useEffect, useState } from 'react';
